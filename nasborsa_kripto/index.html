@@ -98,7 +98,7 @@
 
             try {
                 // Piyasa verilerini çekme (ilk 10 kripto para)
-                const marketResponse = await fetch(`${API_BASE_URL}coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false`);
+                const marketResponse = await fetch(`${API_BASE_URL}coins/markets?vs_currency=try&order=market_cap_desc&per_page=1000000&page=1&sparkline=false`);
                 if (!marketResponse.ok) {
                     throw new Error(`API hatası: ${marketResponse.status}`);
                 }
@@ -167,7 +167,7 @@
 
             } catch (error) {
                 console.error('Kripto verileri çekilirken bir hata oluştu:', error);
-                tableBody.innerHTML = '<tr><td colspan="9" style="text-align: center; color: red;">Veriler yüklenirken bir hata oluştu. Lütfen daha sonra tekrar deneyin.</td></tr>';
+                tableBody.innerHTML = `${error}`+'<tr><td colspan="9" style="text-align: center; color: red;">Veriler yüklenirken bir hata oluştu. Lütfen daha sonra tekrar deneyin.</td></tr>';
                 lastUpdatedDiv.textContent = ''; // Hata durumunda güncelleme zamanını gösterme
             } finally {
                 loadingMessage.style.display = 'none'; // Yükleniyor mesajını gizle
