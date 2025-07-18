@@ -1,5 +1,5 @@
-const apiUrl = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=try&order=market_cap_desc&per_page=1000000&page=1&sparkline=false';
-//const apiUrl = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,binancecoin,solana,cardano&order=market_cap_desc&per_page=10&page=1&sparkline=false';
+//const apiUrl = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=try&order=market_cap_desc&per_page=1000000&page=1&sparkline=false';
+const apiUrl = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,binancecoin,solana,cardano&order=market_cap_desc&per_page=10&page=1&sparkline=false';
 const jsonOutput = document.getElementById('json-output');
 
 async function fetchCryptoData() {
