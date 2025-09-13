@@ -41,7 +41,7 @@
         </tbody>
       </table>
     </div>
-    <p id="demo" class="text-center text-sm text-gray-500 mt-8"></p>
+    <p id="copyright" class="text-center text-sm text-gray-500 mt-8"></p>
   </div>
 
 <script>
@@ -149,7 +149,7 @@ socket.on("price_changed", (response) => {
 function renderTable() {
   const tbody = document.getElementById("data-body");
   tbody.innerHTML = "";
-  document.getElementById("demo").innerText = "NAS Teknoloji @ Bütün Hakları Saklıdır.";
+  document.getElementById("copyright").innerText = "NAS Teknoloji @ Bütün Hakları Saklıdır.";
   for (const [key, val] of latestData.entries()) {
     const isMetal = metalKeys.includes(key);
     if ((selectedTab === 'currency' && isMetal) || (selectedTab === 'metal' && !isMetal)) continue;
