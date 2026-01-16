@@ -1,0 +1,33 @@
+name: Daily Opening Prices
+
+on:
+  schedule:
+    - cron: "0 21 * * *"   # UTC 21:00 = Türkiye 00:00
+  workflow_dispatch:
+
+jobs:
+  update-opening:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests pytz
+
+      - name: Fetch opening prices
+        run: python scripts/fetch_opening.py
+
+      - name: Commit and push JSON
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add assets/files/R4e415320426f727361/DovizKapanisFiyat.json
+          git commit -m "Daily opening prices update"
+          git push
