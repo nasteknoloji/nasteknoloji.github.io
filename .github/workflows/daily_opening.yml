@@ -1,8 +1,8 @@
-name: Daily Opening Prices
+name: Daily Opening Prices (Socket)
 
 on:
   schedule:
-    - cron: "0 21 * * *"   # UTC 21:00 = Türkiye 00:00
+    - cron: "0 21 * * *"   # UTC 21:00 = TSİ 00:00
   workflow_dispatch:
 
 jobs:
@@ -13,21 +13,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: "3.11"
+          node-version: "20"
 
       - name: Install dependencies
-        run: pip install requests pytz
+        run: npm install
 
-      - name: Fetch opening prices
-        run: python scripts/fetch_opening.py
+      - name: Fetch opening prices via socket
+        run: node scripts/fetch_opening_socket.js
 
       - name: Commit and push JSON
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add assets/files/R4e415320426f727361/DovizKapanisFiyat.json
-          git commit -m "Daily opening prices update"
+          git commit -m "Daily opening prices (socket)"
           git push
