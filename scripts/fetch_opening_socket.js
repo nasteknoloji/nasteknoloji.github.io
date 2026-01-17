@@ -7,8 +7,6 @@ const SOCKET_URL = "wss://hrmsocketonly.haremaltin.com";
 const TARGET_PATH =
   "assets/files/R4e415320426f727361/DovizKapanisFiyat.json";
 
-const SYMBOLS = ["USDTRY", "ALTIN"];
-
 const socket = io(SOCKET_URL, {
   transports: ["websocket"],
   path: "/socket.io/",
@@ -25,17 +23,23 @@ socket.on("connect_error", (err) => {
   process.exit(1);
 });
 
-socket.on("disconnect", (reason) => {
-  console.log("🔌 Socket disconnected:", reason);
-});
-
 socket.on("price_changed", (payload) => {
   try {
+    if (!payload || !payload.data) {
+      throw new Error("Payload data is empty");
+    }
+
     const prices = {};
 
-    SYMBOLS.forEach((symbol) => {
-      if (payload.data[symbol]) {
-        prices[symbol] = parseFloat(payload.data[symbol].satis);
+    Object.keys(payload.data).forEach((key) => {
+      const item = payload.data[key];
+
+      if (item && item.satis !== undefined && item.satis !== null) {
+        const satis = parseFloat(item.satis);
+
+        if (!isNaN(satis)) {
+          prices[key] = satis;
+        }
       }
     });
 
@@ -56,7 +60,9 @@ socket.on("price_changed", (payload) => {
       "utf-8"
     );
 
-    console.log("✅ Opening prices written:", output);
+    console.log(
+      `✅ Opening prices written (${Object.keys(prices).length} items)`
+    );
 
     socket.disconnect();
     process.exit(0);
@@ -64,4 +70,8 @@ socket.on("price_changed", (payload) => {
     console.error("❌ Data parse error:", err);
     process.exit(1);
   }
+});
+
+socket.on("disconnect", (reason) => {
+  console.log("🔌 Socket disconnected:", reason);
 });
