@@ -35,7 +35,7 @@ socket.on("price_changed", (payload) => {
       const item = payload.data[key];
 
       if (item && item.satis !== undefined && item.satis !== null) {
-        const satis = parseFloat(item.satis);
+        const satis = item.satis;
 
         if (!isNaN(satis)) {
           prices[key] = satis;
