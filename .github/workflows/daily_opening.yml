@@ -2,7 +2,7 @@ name: Daily Opening Prices (Socket)
 
 on:
   schedule:
-    - cron: "0 21 * * *"   # UTC 21:00 = TSİ 00:00
+    - cron: "0 11 * * *"   # UTC 11:00 = TSİ 14:00
   workflow_dispatch:
 
 jobs:
