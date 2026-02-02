@@ -2,7 +2,8 @@ const fs = require("fs");
 const path = require("path");
 const { io } = require("socket.io-client");
 
-const SOCKET_URL = "wss://hrmsocketonly.haremaltin.com";
+const SOCKET_URL = "wss://socket.haremaltin.com/socket.io/?EIO=4&transport=websocket";
+  //eski: "wss://hrmsocketonly.haremaltin.com";
 
 const TARGET_PATH =
   "assets/files/R4e415320426f727361/DovizKapanisFiyat.json";
