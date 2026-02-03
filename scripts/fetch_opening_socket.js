@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const { io } = require("socket.io-client");
 
-const SOCKET_URL = "wss://socket.haremaltin.com/socket.io/?EIO=4&transport=websocket";
+const SOCKET_URL = "wss://socket.haremaltin.com";
   //eski: "wss://hrmsocketonly.haremaltin.com";
 
 const TARGET_PATH =
