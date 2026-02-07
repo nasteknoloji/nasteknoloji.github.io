@@ -62,7 +62,7 @@ socket.on("price_changed", (payload) => {
     );
 
     console.log(`✅ Opening prices written (${Object.keys(prices).length} items)`);
-    console.log(`✅ Opening prices written (${Object})`);
+    console.log(`✅ Opening prices written (${Object.keys(prices)})`);
 
     socket.disconnect();
     process.exit(0);
