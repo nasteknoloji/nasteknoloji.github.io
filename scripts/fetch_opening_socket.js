@@ -61,9 +61,8 @@ socket.on("price_changed", (payload) => {
       "utf-8"
     );
 
-    console.log(
-      `✅ Opening prices written (${Object.keys(prices).length} items)`
-    );
+    console.log(`✅ Opening prices written (${Object.keys(prices).length} items)`);
+    console.log(`✅ Opening prices written (${Object})`);
 
     socket.disconnect();
     process.exit(0);
