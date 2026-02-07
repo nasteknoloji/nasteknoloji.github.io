@@ -8,10 +8,14 @@ on:
 jobs:
   update-opening:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write          # ← önemli, yazma izni ver
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # ← tüm geçmişi çek (shallow clone'u kaldır)
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
