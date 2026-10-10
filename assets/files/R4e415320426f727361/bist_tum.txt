@@ -302,6 +302,7 @@ INTET;İNTETRA TEKNOLOJİ VE BİLİŞİM HİZMETLERİ A.Ş.;Elektronik teknoloji
 INVEO;INVEO YATIRIM HOLDİNG A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/gedik-yatirim.svg
 INVES;INVESTCO HOLDİNG A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/investco.svg
 ISBIR;İŞBİR HOLDİNG A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/isbir-holding.svg
+ISCTR;TÜRKİYE İŞ BANKASI A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/is-bankasi--big.svg
 ISDMR;İSKENDERUN DEMİR VE ÇELİK A.Ş.;Enerji-dışı mineraller;https://s3-symbol-logo.tradingview.com/iskenderun-demir-celik.svg
 ISFIN;İŞ FİNANSAL KİRALAMA A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/is-fin-kir.svg
 ISGYO;İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/is-gmyo.svg
