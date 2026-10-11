@@ -29,7 +29,7 @@ AKSUE;AKSU ENERJİ VE TİCARET A.Ş.;Elektrik, Su, Gaz Hizmetleri;https://s3-sym
 AKYHO;AKDENİZ YATIRIM HOLDİNG A.Ş.;Ticari hizmetler;https://s3-symbol-logo.tradingview.com/akdeniz-yatirim.svg
 ALARK;ALARKO HOLDİNG A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/alarko-holding.svg
 ALBRK;ALBARAKA TÜRK KATILIM BANKASI A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/albaraka-turk.svg
-ALBTN;ALBAYRAK HAZIR BETON SANAYİ VE TİCARET A.Ş.;Enerji-dışı mineraller;LOGO_LINK
+ALBTN;ALBAYRAK HAZIR BETON SANAYİ VE TİCARET A.Ş.;Enerji-dışı mineraller;https://storage.fintables.com/media/uploads/company-logos/albtn_icon.png
 ALCAR;ALARKO CARRIER SANAYİ VE TİCARET A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/alarko-carrier.svg
 ALCTL;ALCATEL LUCENT TELETAŞ TELEKOMÜNİKASYON A.Ş.;Elektronik teknoloji;https://s3-symbol-logo.tradingview.com/alcatel-lucent-teletas.svg
 ALFAS;ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş.;Elektrik, Su, Gaz Hizmetleri;https://s3-symbol-logo.tradingview.com/alfa-solar-enerji.svg
@@ -88,7 +88,7 @@ BEGYO;BATI EGE GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.;Finans;https://s3-symbol-lo
 BERA;BERA HOLDİNG A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/bera-holding.svg
 BESLR;BESLER GIDA VE KİMYA SANAYİ VE TİCARET A.Ş.;Dayanıklı olmayan tüketici ürünleri;https://s3-symbol-logo.tradingview.com/kerevitas-gida.svg
 BESTE;BEST BRANDS GRUP ENERJİ YATIRIM A.Ş.;Elektrik, Su, Gaz Hizmetleri;https://s3-symbol-logo.tradingview.com/best-brands-grup-enerji-yatirim-as.svg
-BETAE;BETA ENERJİ VE TEKNOLOJİ A.Ş.;Üretici imalatı;LOGO_LINK
+BETAE;BETA ENERJİ VE TEKNOLOJİ A.Ş.;Üretici imalatı;https://storage.fintables.com/media/uploads/company-logos/betae_icon.png
 BEYAZ;BEYAZ FİLO OTO KİRALAMA A.Ş.;Perakende satış;https://s3-symbol-logo.tradingview.com/beyaz-filo.svg
 BFREN;BOSCH FREN SİSTEMLERİ SANAYİ VE TİCARET A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/bosch-fren-sistemleri.svg
 BIENY;BİEN YAPI ÜRÜNLERİ SANAYİ TURİZM VE TİCARET A.Ş.;Enerji-dışı mineraller;https://s3-symbol-logo.tradingview.com/bien-yapi-urunleri.svg
@@ -101,7 +101,7 @@ BINHO;1000 YATIRIMLAR HOLDİNG A.Ş.;Teknoloji hizmetleri;https://s3-symbol-logo
 BIOEN;BİOTREND ÇEVRE VE ENERJİ YATIRIMLARI A.Ş.;Elektrik, Su, Gaz Hizmetleri;https://s3-symbol-logo.tradingview.com/biotrend.svg
 BIZIM;BİZİM TOPTAN SATIŞ MAĞAZALARI A.Ş.;Perakende satış;https://s3-symbol-logo.tradingview.com/bizim-magazalari.svg
 BJKAS;BEŞİKTAŞ FUTBOL YATIRIMLARI SANAYİ VE TİCARET A.Ş.;Tüketici hizmetleri;https://s3-symbol-logo.tradingview.com/besiktas-futbol-yat.svg
-BKRGY;BAKIRCI GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.;Finans;LOGO_LINK
+BKRGY;BAKIRCI GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.;Finans;https://storage.fintables.com/media/uploads/company-logos/bkrgy_icon.png
 BLCYT;BİLİCİ YATIRIM SANAYİ VE TİCARET A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/bilici-yatirim.svg
 BLUME;BLUME METAL KİMYA A.Ş.;Tüketici hizmetleri;https://s3-symbol-logo.tradingview.com/metemtur-otelcilik.svg
 BMSCH;BMS ÇELİK HASIR SANAYİ VE TİCARET A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/bms-celik-hasir.svg
@@ -138,7 +138,7 @@ CEMZY;CEM ZEYTİN A.Ş.;Dayanıklı olmayan tüketici ürünleri;https://s3-symb
 CEOEM;CEO EVENT MEDYA A.Ş.;Tüketici hizmetleri;https://s3-symbol-logo.tradingview.com/ceo-event-medya.svg
 CGCAM;ÇAĞDAŞ CAM SANAYİ VE TİCARET A.Ş.;Dayanıklı tüketim malları;https://s3-symbol-logo.tradingview.com/cagdas-cam.svg
 CIMSA;ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.;Enerji-dışı mineraller;https://s3-symbol-logo.tradingview.com/cimsa-cimento.svg
-CITAS;ÇİTLEKÇİ MAĞAZACILIK GIDA A.Ş.;Perakende satış;LOGO_LINK
+CITAS;ÇİTLEKÇİ MAĞAZACILIK GIDA A.Ş.;Perakende satış;https://storage.fintables.com/media/uploads/company-logos/citas_logo.png
 CLEBI;ÇELEBİ HAVA SERVİSİ A.Ş.;Taşımacılık;https://s3-symbol-logo.tradingview.com/celebi.svg
 CMBTN;ÇİMBETON HAZIRBETON VE PREFABRİK YAPI ELEMANLARI SANAYİ VE TİCARET A.Ş.;Enerji-dışı mineraller;https://s3-symbol-logo.tradingview.com/cimbeton.svg
 CMENT;ÇİMENTAŞ İZMİR ÇİMENTO FABRİKASI T.A.Ş.;Enerji-dışı mineraller;https://s3-symbol-logo.tradingview.com/cimentas.svg
@@ -193,8 +193,8 @@ EGEPO;NASMED ÖZEL SAĞLIK HİZMETLERİ TİCARET A.Ş.;Sağlık hizmetleri;https
 EGGUB;EGE GÜBRE SANAYİİ A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/ege-gubre.svg
 EGPRO;EGE PROFİL TİCARET VE SANAYİ A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/ege-profil.svg
 EGSER;EGE SERAMİK SANAYİ VE TİCARET A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/ege-seramik.svg
-EKDMR;EKİNCİLER DEMİR VE ÇELİK SANAYİ A.Ş.;Enerji-dışı mineraller;LOGO_LINK
-EKIM;EKİM TURİZM TİCARET VE SANAYİ A.Ş.;Finans;LOGO_LINK
+EKDMR;EKİNCİLER DEMİR VE ÇELİK SANAYİ A.Ş.;Enerji-dışı mineraller;https://storage.fintables.com/media/uploads/company-logos/ekdmr_icon.png
+EKIM;EKİM TURİZM TİCARET VE SANAYİ A.Ş.;Finans;https://storage.fintables.com/media/uploads/company-logos/ekim_logo.png
 EKIZ;EKİZ KİMYA SANAYİ VE TİCARET A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/ekiz-kimya.svg
 EKOS;EKOS TEKNOLOJİ VE ELEKTRİK A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/ekos-teknoloji.svg
 EKSUN;EKSUN GIDA TARIM SANAYİ VE TİCARET A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/eksun-gida.svg
@@ -254,7 +254,7 @@ GLRYH;GÜLER YATIRIM HOLDİNG A.Ş.;Finans;https://s3-symbol-logo.tradingview.co
 GLYHO;GLOBAL YATIRIM HOLDİNG A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/global-yat-holding.svg
 GMTAS;GİMAT MAĞAZACILIK SANAYİ VE TİCARET A.Ş.;Perakende satış;https://s3-symbol-logo.tradingview.com/gimat-magazacilik.svg
 GOKNR;GÖKNUR GIDA MADDELERİ ENERJİ İMALAT İTHALAT İHRACAT TİCARET VE SANAYİ A.Ş.;Dayanıklı olmayan tüketici ürünleri;https://s3-symbol-logo.tradingview.com/goknur-gida.svg
-GOLDA;GOLDA GIDA SANAYİ VE TİCARET A.Ş.;Dayanıklı olmayan tüketici ürünleri;LOGO_LINK
+GOLDA;GOLDA GIDA SANAYİ VE TİCARET A.Ş.;Dayanıklı olmayan tüketici ürünleri;https://storage.fintables.com/media/uploads/company-logos/golda_icon.png
 GOLTS;GÖLTAŞ GÖLLER BÖLGESİ ÇİMENTO SANAYİ VE TİCARET A.Ş.;Enerji-dışı mineraller;https://s3-symbol-logo.tradingview.com/goltas-cimento.svg
 GOODY;GOODYEAR LASTİKLERİ T.A.Ş.;Dayanıklı tüketim malları;https://s3-symbol-logo.tradingview.com/goodyear-tire-and-rubber.svg
 GOZDE;GÖZDE GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/gozde-girisim.svg
@@ -298,7 +298,7 @@ INFO;İNFO YATIRIM MENKUL DEĞERLER A.Ş.;Finans;https://s3-symbol-logo.tradingv
 INGRM;INGRAM MİCRO BİLİŞİM SİSTEMLERİ A.Ş.;Dağıtım servisleri;https://s3-symbol-logo.tradingview.com/armada-bilgisayar.svg
 INTEK;İNNOSA TEKNOLOJİ A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/uzertas-boya.svg
 INTEM;İNTEMA İNŞAAT VE TESİSAT MALZEMELERİ YATIRIM VE PAZARLAMA A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/intema.svg
-INTET;İNTETRA TEKNOLOJİ VE BİLİŞİM HİZMETLERİ A.Ş.;Elektronik teknoloji;LOGO_LINK
+INTET;İNTETRA TEKNOLOJİ VE BİLİŞİM HİZMETLERİ A.Ş.;Elektronik teknoloji;https://storage.fintables.com/media/uploads/company-logos/intet_logo.png
 INVEO;INVEO YATIRIM HOLDİNG A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/gedik-yatirim.svg
 INVES;INVESTCO HOLDİNG A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/investco.svg
 ISBIR;İŞBİR HOLDİNG A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/isbir-holding.svg
@@ -309,14 +309,14 @@ ISGYO;İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.;Finans;https://s3-symbol-logo.t
 ISKPL;IŞIK PLASTİK SANAYİ VE DIŞ TİCARET PAZARLAMA A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/isik-plastik.svg
 ISMEN;İŞ YATIRIM MENKUL DEĞERLER A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/is-y-men-deg.svg
 ISSEN;İŞBİR SENTETİK DOKUMA SANAYİ A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/isbir-sentetik-dokuma.svg
-ISVEA;İSVEA SERAMİK VE BANYO ÜRÜNLERİ SANAYİ A.Ş.;Dayanıklı tüketim malları;LOGO_LINK
+ISVEA;İSVEA SERAMİK VE BANYO ÜRÜNLERİ SANAYİ A.Ş.;Dayanıklı tüketim malları;https://storage.fintables.com/media/uploads/company-logos/isvea_logo.png
 IZENR;İZDEMİR ENERJİ ELEKTRİK ÜRETİM A.Ş.;Elektrik, Su, Gaz Hizmetleri;https://s3-symbol-logo.tradingview.com/izdemir-enerji.svg
 IZFAS;İZMİR FIRÇA SANAYİ VE TİCARET A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/izmir-firca.svg
 IZINV;İZ YATIRIM HOLDİNG A.Ş.;Dayanıklı olmayan tüketici ürünleri;https://s3-symbol-logo.tradingview.com/iz-hayvancilik-tarim.svg
 IZMDC;İZMİR DEMİR ÇELİK SANAYİ A.Ş.;Enerji-dışı mineraller;https://s3-symbol-logo.tradingview.com/izmir-demir-celik.svg
 JANTS;JANTSA JANT SANAYİ VE TİCARET A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/jantsa-jant-sanayi.svg
 KAPLM;KAPLAMİN AMBALAJ SANAYİ VE TİCARET A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/kaplamin.svg
-KARCL;KARDEMİR ÇELİK SANAYİ A.Ş.;Enerji-dışı mineraller;LOGO_LINK
+KARCL;KARDEMİR ÇELİK SANAYİ A.Ş.;Enerji-dışı mineraller;https://storage.fintables.com/media/uploads/company-logos/karcl_icon.png
 KAREL;KAREL ELEKTRONİK SANAYİ VE TİCARET A.Ş.;Elektronik teknoloji;https://s3-symbol-logo.tradingview.com/karel-elektronik.svg
 KARSN;KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/karsan-otomotiv.svg
 KARTN;KARTONSAN KARTON SANAYİ VE TİCARET A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/kartonsan.svg
@@ -347,7 +347,7 @@ KONYA;KONYA ÇİMENTO SANAYİİ A.Ş.;Enerji-dışı mineraller;https://s3-symbo
 KOPOL;KOZA POLYESTER SANAYİ VE TİCARET A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/koza-polyester.svg
 KORDS;KORDSA TEKNİK TEKSTİL A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/kordsa-teknik-tekstil.svg
 KOTON;KOTON MAĞAZACILIK TEKSTİL SANAYİ VE TİCARET A.Ş.;Dayanıklı olmayan tüketici ürünleri;https://s3-symbol-logo.tradingview.com/koton-magazacilik.svg
-KPEKS;KAPEKS KİMYA SANAYİ A.Ş.;İşlenebilen endüstriler;LOGO_LINK
+KPEKS;KAPEKS KİMYA SANAYİ A.Ş.;İşlenebilen endüstriler;https://storage.fintables.com/media/uploads/company-logos/kpeks_icon_1.png
 KRDMA;KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.;Enerji-dışı mineraller;https://s3-symbol-logo.tradingview.com/kardemir.svg
 KRGYO;KÖRFEZ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/korfez-gyo.svg
 KRONT;KRON TEKNOLOJİ A.Ş.;İletişim;https://s3-symbol-logo.tradingview.com/kron-telekomunikasyon.svg
@@ -384,7 +384,7 @@ MANAS;MANAS ENERJİ YÖNETİMİ SANAYİ VE TİCARET A.Ş.;Üretici imalatı;http
 MARBL;TUREKS TURUNÇ MADENCİLİK İÇ VE DIŞ TİCARET A.Ş.;Enerji-dışı mineraller;https://s3-symbol-logo.tradingview.com/tureks-turunc-madencilik.svg
 MARMR;MARMARA HOLDİNG A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/marmara-as.svg
 MARTI;MARTI OTEL İŞLETMELERİ A.Ş.;Tüketici hizmetleri;https://s3-symbol-logo.tradingview.com/marti-otel.svg
-MASFN;MASFEN ENERJİ A.Ş.;Endüstriyel hizmetler;LOGO_LINK
+MASFN;MASFEN ENERJİ A.Ş.;Endüstriyel hizmetler;https://storage.fintables.com/media/uploads/company-logos/masfen_logo.png
 MAVI;MAVİ GİYİM SANAYİ VE TİCARET A.Ş.;Dayanıklı olmayan tüketici ürünleri;https://s3-symbol-logo.tradingview.com/mavi-giyim.svg
 MCARD;METROPAL KURUMSAL HİZMETLER A.Ş.;Ticari hizmetler;https://s3-symbol-logo.tradingview.com/metropal-kurumsal-hizmetler-as.svg
 MEDTR;MEDİTERA TIBBİ MALZEME SANAYİ VE TİCARET A.Ş.;Sağlık teknolojisi;https://s3-symbol-logo.tradingview.com/meditera-tibbi-malzeme.svg
@@ -395,7 +395,7 @@ MEPET;MEPET METRO PETROL VE TESİSLERİ SANAYİ TİCARET A.Ş.;Perakende satış
 MERCN;MERCAN KİMYA SANAYİ VE TİCARET A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/mercan-kimya.svg
 MERIT;MERİT TURİZM YATIRIM VE İŞLETME A.Ş.;Tüketici hizmetleri;https://s3-symbol-logo.tradingview.com/merit-turizm.svg
 MERKO;MERKO GIDA SANAYİ VE TİCARET A.Ş.;Dayanıklı olmayan tüketici ürünleri;https://s3-symbol-logo.tradingview.com/merko-gida.svg
-METEN;METGÜN ENERJİ YATIRIMLARI A.Ş.;Elektrik, Su, Gaz Hizmetleri;LOGO_LINK
+METEN;METGÜN ENERJİ YATIRIMLARI A.Ş.;Elektrik, Su, Gaz Hizmetleri;https://storage.fintables.com/media/uploads/company-logos/meten_icon.png
 METRO;METRO TİCARİ VE MALİ YATIRIMLAR HOLDİNG A.Ş.;Dayanıklı olmayan tüketici ürünleri;https://s3-symbol-logo.tradingview.com/metro-holding.svg
 MEYSU;MEYSU GIDA SANAYİ VE TİCARET A.Ş.;Dayanıklı olmayan tüketici ürünleri;https://s3-symbol-logo.tradingview.com/meysu-gida-sanayi-ve-ticaret-as.svg
 MGROS;MİGROS TİCARET A.Ş.;Perakende satış;https://s3-symbol-logo.tradingview.com/migros-ticaret.svg
@@ -417,7 +417,7 @@ MZHLD;MAZHAR ZORLU HOLDİNG A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradi
 NATEN;NATUREL YENİLENEBİLİR ENERJİ TİCARET A.Ş.;Endüstriyel hizmetler;https://s3-symbol-logo.tradingview.com/naturel-enerji.svg
 NETAS;NETAŞ TELEKOMÜNİKASYON A.Ş.;Teknoloji hizmetleri;https://s3-symbol-logo.tradingview.com/netas-telekom.svg
 NETCD;NETCAD YAZILIM A.Ş.;Teknoloji hizmetleri;https://s3-symbol-logo.tradingview.com/netcad-yazilim-as.svg
-NETGL;NET GLOBAL ENDÜSTRİYEL YATIRIMLAR A.Ş.;Üretici imalatı;LOGO_LINK
+NETGL;NET GLOBAL ENDÜSTRİYEL YATIRIMLAR A.Ş.;Üretici imalatı;https://storage.fintables.com/media/uploads/company-logos/netgl_icon.png
 NIBAS;NİĞBAŞ NİĞDE BETON SANAYİ VE TİCARET A.Ş.;Endüstriyel hizmetler;https://s3-symbol-logo.tradingview.com/nigbas-nigde-beton.svg
 NTGAZ;NATURELGAZ SANAYİ VE TİCARET A.Ş.;Elektrik, Su, Gaz Hizmetleri;https://s3-symbol-logo.tradingview.com/naturelgaz.svg
 NTHOL;NET HOLDİNG A.Ş.;Tüketici hizmetleri;https://s3-symbol-logo.tradingview.com/net-holding.svg
@@ -433,7 +433,7 @@ ONRYT;ONUR YÜKSEK TEKNOLOJİ A.Ş.;Elektronik teknoloji;https://s3-symbol-logo.
 ORCAY;ORÇAY ORTAKÖY ÇAY SANAYİ VE TİCARET A.Ş.;Dayanıklı olmayan tüketici ürünleri;https://s3-symbol-logo.tradingview.com/orcay-ortakoy-cay-sanayi.svg
 ORGE;ORGE ENERJİ ELEKTRİK TAAHHÜT A.Ş.;Endüstriyel hizmetler;https://s3-symbol-logo.tradingview.com/orge-enerji-elektrik.svg
 ORMA;ORMA ORMAN MAHSÜLLERİ İNTEGRE SANAYİ VE TİCARET A.Ş.;Enerji-dışı mineraller;https://s3-symbol-logo.tradingview.com/orma-orman-mahsulleri.svg
-ORZAX;ORZAKS İLAÇ VE KİMYA SANAYİ TİCARET A.Ş.;Sağlık teknolojisi;LOGO_LINK
+ORZAX;ORZAKS İLAÇ VE KİMYA SANAYİ TİCARET A.Ş.;Sağlık teknolojisi;https://storage.fintables.com/media/uploads/company-logos/orzax_logo.png
 OSMEN;OSMANLI YATIRIM MENKUL DEĞERLER A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/osmanli-menkul.svg
 OSTIM;OSTİM ENDÜSTRİYEL YATIRIMLAR VE İŞLETME A.Ş.;Çeşitli Hizmetler;https://s3-symbol-logo.tradingview.com/ostim-endustriyel-yat.svg
 OTKAR;OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş.;Dayanıklı tüketim malları;https://s3-symbol-logo.tradingview.com/otokar.svg
@@ -479,7 +479,7 @@ PSGYO;PASİFİK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.;Finans;https://s3-symbol-l
 QNBFK;QNB FİNANSAL KİRALAMA A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/qnb-finansbank.svg
 QNBTR;QNB BANK A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/qnb-finansbank.svg
 QUAGR;QUA GRANITE HAYAL YAPI VE ÜRÜNLERİ SANAYİ TİCARET A.Ş.;Enerji-dışı mineraller;https://s3-symbol-logo.tradingview.com/qua-granite.svg
-QUICK;QUİCK SİGORTA A.Ş.;Finans;LOGO_LINK
+QUICK;QUİCK SİGORTA A.Ş.;Finans;https://storage.fintables.com/media/uploads/company-logos/quick_icon.png
 RALYH;RAL YATIRIM HOLDİNG A.Ş.;Endüstriyel hizmetler;https://s3-symbol-logo.tradingview.com/ral-yatirim-holding.svg
 RAYSG;RAY SİGORTA A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/ray-sigorta.svg
 REEDR;REEDER TEKNOLOJİ SANAYİ VE TİCARET A.Ş.;Teknoloji hizmetleri;https://s3-symbol-logo.tradingview.com/reeder-teknoloji.svg
@@ -497,7 +497,7 @@ SAMAT;SARAY MATBAACILIK KAĞITÇILIK KIRTASİYECİLİK TİCARET VE SANAYİ A.Ş.
 SANEL;SAN-EL MÜHENDİSLİK ELEKTRİK TAAHHÜT SANAYİ VE TİCARET A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/sanel-muhendislik.svg
 SANFM;SANİFOAM ENDÜSTRİ VE TÜKETİM ÜRÜNLERİ SANAYİ TİCARET A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/sanifoam-sunger.svg
 SANKO;SANKO PAZARLAMA İTHALAT İHRACAT A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/sanko-pazarlama.svg
-SARAE;ŞA-RA ENERJİ İNŞAAT TİCARET VE SANAYİ A.Ş.;Endüstriyel hizmetler;LOGO_LINK
+SARAE;ŞA-RA ENERJİ İNŞAAT TİCARET VE SANAYİ A.Ş.;Endüstriyel hizmetler;https://storage.fintables.com/media/uploads/company-logos/sarae_icon.png
 SARKY;SARKUYSAN ELEKTROLİTİK BAKIR SANAYİ VE TİCARET A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/sarkuysan.svg
 SASA;SASA POLYESTER SANAYİ A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/sasa-polyester.svg
 SAYAS;SAY YENİLENEBİLİR ENERJİ EKİPMANLARI SANAYİ VE TİCARET A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/say-reklamcilik.svg
@@ -523,12 +523,12 @@ SNGYO;SİNPAŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.;Finans;https://s3-symbol-lo
 SNICA;SANİCA ISI SANAYİ A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/sanica-isi-sanayi.svg
 SNPAM;SÖNMEZ PAMUKLU SANAYİİ A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/sonmez-pamuklu.svg
 SODSN;SODAŞ SODYUM SANAYİİ A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/soda-sanayii.svg
-SOHOE;SOHO GİYİM VE ENERJİ A.Ş.;Elektrik, Su, Gaz Hizmetleri;LOGO_LINK
+SOHOE;SOHO GİYİM VE ENERJİ A.Ş.;Elektrik, Su, Gaz Hizmetleri;https://storage.fintables.com/media/uploads/company-logos/sohoe_icon.png
 SOKE;SÖKE DEĞİRMENCİLİK SANAYİ VE TİCARET A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/soke-degirmencilik.svg
 SOKM;ŞOK MARKETLER TİCARET A.Ş.;Perakende satış;https://s3-symbol-logo.tradingview.com/sok-marketler-ticaret.svg
 SONME;SÖNMEZ FİLAMENT SENTETİK İPLİK VE ELYAF SANAYİ A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/sonmez-filament.svg
 SRVGY;SERVET GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/servet-gyo.svg
-SSAAT;SAAT VE SAAT SANAYİ VE TİCARET A.Ş.;Dayanıklı tüketim malları;LOGO_LINK
+SSAAT;SAAT VE SAAT SANAYİ VE TİCARET A.Ş.;Dayanıklı tüketim malları;https://storage.fintables.com/media/uploads/company-logos/ssaat_logo.png
 SUMAS;SUMAŞ SUNİ TAHTA VE MOBİLYA SANAYİİ A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/sumas-suni-tahta.svg
 SUNTK;SUN TEKSTİL SANAYİ VE TİCARET A.Ş.;Dayanıklı olmayan tüketici ürünleri;https://s3-symbol-logo.tradingview.com/sun-tekstil.svg
 SURGY;SUR TATİL EVLERİ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/sur-tatil-evleri-gmyo.svg
@@ -543,14 +543,14 @@ TBORG;TÜRK TUBORG BİRA VE MALT SANAYİİ A.Ş.;Dayanıklı olmayan tüketici �
 TCELL;TURKCELL İLETİŞİM HİZMETLERİ A.Ş.;İletişim;https://s3-symbol-logo.tradingview.com/turkcell.svg
 TCKRC;KIRAÇ GALVANİZ TELEKOMİNİKASYON METAL MAKİNE İNŞAAT ELEKTRİK SANAYİ VE TİCARET A.Ş.;Üretici imalatı;https://s3-symbol-logo.tradingview.com/kirac-galvaniz.svg
 TDGYO;TREND GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/trend-gyo.svg
-TEHOL;TERA YATIRIM TEKNOLOJİ HOLDİNG A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/pera-gmyo.svg
+TEHOL;TERA YATIRIM TEKNOLOJİ HOLDİNG A.Ş.;Finans;https://storage.fintables.com/media/uploads/company-logos/tehol_logo.png
 TEKTU;TEK-ART İNŞAAT TİCARET TURİZM SANAYİ VE YATIRIMLAR A.Ş.;Tüketici hizmetleri;https://s3-symbol-logo.tradingview.com/tek-art-turizm.svg
 TERA;TERA YATIRIM MENKUL DEĞERLER A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/tera-yatirim-menkul-degerler.svg
 TEZOL;EUROPAP TEZOL KAĞIT SANAYİ VE TİCARET A.Ş.;Dayanıklı olmayan tüketici ürünleri;https://s3-symbol-logo.tradingview.com/europap-tezol-kagit.svg
 TGSAS;TGS DIŞ TİCARET A.Ş.;Dağıtım servisleri;https://s3-symbol-logo.tradingview.com/tgs-dis-ticaret.svg
 THYAO;TÜRK HAVA YOLLARI A.O.;Taşımacılık;https://s3-symbol-logo.tradingview.com/turk-hava-yollari.svg
 TKFEN;TEKFEN HOLDİNG A.Ş.;Endüstriyel hizmetler;https://s3-symbol-logo.tradingview.com/tekfen.svg
-TKNKA;TEKNİKA PLAST TEKNİK KALIP PLASTİK SANAYİ VE TİCARET A.Ş.;Üretici imalatı;LOGO_LINK
+TKNKA;TEKNİKA PLAST TEKNİK KALIP PLASTİK SANAYİ VE TİCARET A.Ş.;Üretici imalatı;https://storage.fintables.com/media/uploads/company-logos/tknka_icon_1.png
 TKNSA;TEKNOSA İÇ VE DIŞ TİCARET A.Ş.;Perakende satış;https://s3-symbol-logo.tradingview.com/teknosa-ic-ve-dis-ticaret.svg
 TLMAN;TRABZON LİMAN İŞLETMECİLİĞİ A.Ş.;Taşımacılık;https://s3-symbol-logo.tradingview.com/trabzon-liman.svg
 TMPOL;TEMAPOL POLİMER PLASTİK VE İNŞAAT SANAYİ TİCARET A.Ş.;İşlenebilen endüstriler;https://s3-symbol-logo.tradingview.com/temapol-polimer-plastik.svg
@@ -594,7 +594,7 @@ VBTYZ;VBT YAZILIM A.Ş.;Teknoloji hizmetleri;https://s3-symbol-logo.tradingview.
 VERUS;VERUSA HOLDİNG A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/verusa-holding.svg
 VESBE;VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.;Dayanıklı tüketim malları;https://s3-symbol-logo.tradingview.com/vestel-beyaz-esya.svg
 VESTL;VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.;Dayanıklı tüketim malları;https://s3-symbol-logo.tradingview.com/vestel.svg
-VEYAS;TÜRKER VANGÖLÜ ENERJİ YATIRIM A.Ş.;Elektrik, Su, Gaz Hizmetleri;LOGO_LINK
+VEYAS;TÜRKER VANGÖLÜ ENERJİ YATIRIM A.Ş.;Elektrik, Su, Gaz Hizmetleri;https://storage.fintables.com/media/uploads/company-logos/veyas_icon_1.png
 VKFYO;VAKIF MENKUL KIYMET YATIRIM ORTAKLIĞI A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/vakif-yat-ort.svg
 VKGYO;VAKIF GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.;Finans;https://s3-symbol-logo.tradingview.com/vakif-gmyo.svg
 VKING;VİKİNG KAĞIT VE SELÜLOZ A.Ş.;Dayanıklı olmayan tüketici ürünleri;https://s3-symbol-logo.tradingview.com/viking-kagit.svg
